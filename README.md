@@ -12,8 +12,9 @@
 		<div class="center text-description"></div>
 			<h1>Hamburgueria Lanches & Drink's</h1>
             <h2>Se é Hamburguer, é Bom. <img src="images cardapio/animacao.jpg"width="100" height="90"></h2>
-            <br>
-			<p>Para melhor atende-los! fazemos entregas pelo Ifood, baixe o app da nossa loja.</p>		
+            <br>	
+		style="<span style="color: red">Para melhor atende-los! fazemos entregas pelo Ifood, baixe o app da nossa loja.</span></p>
+            <span color: red">Venha nós visitar, ambiente Familiar.</span></p>
 		</div>
 	</div>
 </div> <!-- end description -->
